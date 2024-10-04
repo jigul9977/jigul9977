@@ -41,7 +41,7 @@ During my internship, I've worked on a variety of real-world projects:
 ---
 
 ### 🌍 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arash%20Tavana-blue?logo=linkedin)](https://www.linkedin.com/in/arash-tavana)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arash%20Tavana-blue?logo=linkedin)](https://www.linkedin.com/in/arashtavana/)
 [![Telegram](https://img.shields.io/badge/Telegram-Arash%20Tavana-blue?logo=telegram)](https://t.me/ArashTvn)
 
 ---
